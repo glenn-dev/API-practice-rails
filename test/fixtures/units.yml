@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  value: 1.5
+  date_uf: 2020-02-15
+
+two:
+  value: 1.5
+  date_uf: 2020-02-15
